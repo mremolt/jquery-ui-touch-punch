@@ -185,4 +185,4 @@
     _mouseDestroy.call(self);
   };
 
-})(jQuery);
+}));
